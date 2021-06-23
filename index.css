@@ -129,6 +129,8 @@ hr {
   text-shadow: 0 0 15px #1DA1F2;
 }
 
+
+/*
 @media (max-width: @screen-xs-max) { 
 
  }
@@ -142,4 +144,4 @@ hr {
     html{
         grid-template-columns: 100%;
       }
- }
+ }*/
