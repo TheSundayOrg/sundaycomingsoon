@@ -129,7 +129,14 @@ hr {
   text-shadow: 0 0 15px #1DA1F2;
 }
 
-
+a{
+  text-decoration: none;
+  color: #000;
+}
+a:hover{
+  text-decoration: none;
+  color:#fff;
+}
 /*
 @media (max-width: @screen-xs-max) { 
 
